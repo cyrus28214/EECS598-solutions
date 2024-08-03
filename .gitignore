@@ -2,3 +2,6 @@ __pycache__/
 cifar-10-batches-py/
 cifar-10-python.tar.gz
 datasets/
+VOCtrainval_06-Nov-2007.tar
+VOCdevkit/
+MNIST_data/
