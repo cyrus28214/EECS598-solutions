@@ -6,7 +6,7 @@ import shutil
 import torch.optim as optim
 from torchvision import models, datasets, transforms
 from torch.utils.data import DataLoader
-from torchsummary import summary
+from torchinfo import summary
 import matplotlib.pyplot as plt
 import eecs598
 
